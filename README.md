@@ -1,4 +1,4 @@
-## Fraud Transaction Detection\
+### Fraud Transaction Detection
 
 This project aims to detect fraudulent transactions using machine learning models. It involves data preprocessing, model training, evaluation, and making predictions based on the best performing model. The dataset used for this project is a credit card transaction dataset that includes various transaction attributes.
 
