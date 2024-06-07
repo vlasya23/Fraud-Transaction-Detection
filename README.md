@@ -45,6 +45,6 @@ Training multiple machine learning models (e.g., Logistic Regression, Decision T
 Evaluating the performance of these models using metrics like accuracy, precision, recall, and F1-score.
 Hyperparameter tuning to improve model performance.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
